@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">COVID-19 PNG</string>
+    <string name="splash_page_subheader_text">Developed by Scratch IT Solutions</string>
+    <string name="splash_page_logo_desc">Splash page logo</string>
+    <string name="internet_connection_error1">Ooops!</string>
+    <string name="internet_connection_error2">There seems to be a problem with your connection!</string>
+</resources>
